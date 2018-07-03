@@ -6,7 +6,7 @@ public class NewGenericObjectPooler : MonoBehaviour{
 	public GameObject pooledObject ;
 	public int pooledAmount = 20 ;
 	public boool willGrow = true ; // determins if we will create an unavailble called object 
-									// basically determins expandipality of the pool
+					// basically determins expandipality of the pool
 
 	List<GameObject> pooledObjects ;
 
